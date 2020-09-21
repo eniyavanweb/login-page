@@ -242,4 +242,12 @@ footer p
     top: 450px;
     font-size: 11px;
 }
+    .log-now img{
+    position: absolute;
+    right: 154px;
+    top: 377px;
+    z-index: 1;
+    cursor: pointer;
+    width: 14px;
+}
 }
