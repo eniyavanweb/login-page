@@ -1,0 +1,254 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: 'Roboto';
+}
+.full-page
+{
+    width: 100%;
+   
+}
+.img-1 img
+{
+    position: absolute;
+    width: 640px;
+    height: 656px;
+}
+
+.first-heading
+{
+    position: absolute;
+    right: 417px;
+    top: 130px;
+}
+.sec-head
+{
+    position: absolute;
+    right: 214px;
+    top: 155px;
+}
+.email
+{
+    position: absolute;
+    right: 235px;
+    top: 205px;
+}
+.email-pas
+{
+    position: absolute;
+    right: 235px;
+    top: 266px;
+
+}
+.radio
+{
+    
+    position: absolute;
+    right: 408px;
+    top: 333px;
+    font-size: 13px;
+
+}
+.email input {
+    width: 280px;
+    height: 35px;
+}
+.email-pas input
+{
+    width: 280px;
+    height: 35px;  
+}
+
+.login-con .forgot
+{
+    position: absolute;
+    right: 240px;
+    top: 334px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.button-con .log
+{
+    position: absolute;
+    right: 248px;
+    top: 385px;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 5px;
+    background: linear-gradient(39.97deg, #00F3B9 0.79%, #2187FF 79.29%);
+border-radius: 50px;
+
+}
+.log-now .lo
+{
+    position: absolute;
+    right: 245px;
+    top: 460px;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 5px;
+    background: #2D3748;
+    border-radius: 50px;
+}
+.button-con  a
+{
+    width: 265px;
+    height: 40px;
+    text-align: center;
+    color: white;
+}
+.log-now a 
+{
+    color: white;
+    width: 265px;
+    height: 40px;
+    text-align: center;
+}
+
+footer p 
+{
+    position: absolute;
+    right: 247px;
+    top: 600px;
+    
+}
+footer p a
+{
+    text-decoration: none;
+}
+.log-now img{
+    position: absolute;
+    right: 473px;
+    top: 468px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+@media screen and (max-width:600px)
+{
+    body
+{
+    font-family: 'Roboto';
+    width: 100%;
+    height: 35vh;
+}
+.img-1 img
+{
+    position: absolute;
+    width: 175px;
+    height: 533px;
+}
+.first-heading
+{
+    position: absolute;
+    right: 89px;
+    top: 99px;
+    font-size: 12px;
+}
+.sec-head
+{
+    position: absolute;
+    right: 33px;
+    top: 122px;
+    font-size: 14px;
+}
+.email
+{
+    position: absolute;
+    right: 4px;
+    top: 149px;
+    font-size: 12px;
+}
+.email input {
+    width: 163px;
+    height: 18px;
+}
+
+.email-pas
+{
+    position: absolute;
+    right: 3px;
+    top: 192px;
+    font-size: 12px;
+}
+.email-pas input
+{
+    width: 164px;
+    height: 18px;
+}
+.radio
+{
+    
+    position: absolute;
+    right: 64px;
+    top: 240px;
+    font-size: 13px;
+
+}
+.login-con .forgot
+{
+    position: absolute;
+    right: 57px;
+    top: 268px;
+    font-size: 14px;
+    text-decoration: none;
+}
+.button-con .log
+{
+    position: absolute;
+    right: 18px;
+    top: 320px;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 5px;
+    background: linear-gradient(39.97deg, #00F3B9 0.79%, #2187FF 79.29%);
+    border-radius: 50px;
+
+}
+.log-now .lo
+{
+    position: absolute;
+    right: 18px;
+    top: 370px;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 5px;
+    background: #2D3748;
+    border-radius: 50px;
+}
+.button-con  a
+{
+    width: 154px;
+    height: 29px;
+    text-align: center;
+    color: white;
+}
+.log-now a 
+{
+    width: 154px;
+    height: 29px;
+    text-align: center;
+    color: white;
+}
+footer p 
+{
+    position: absolute;
+    right: 3px;
+    top: 450px;
+    font-size: 11px;
+}
+.log-now img{
+    position: absolute;
+    right: 154px;
+    top: 377px;
+    z-index: 1;
+    cursor: pointer;
+    width: 14px;
+}
+}
