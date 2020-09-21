@@ -141,60 +141,61 @@ footer p a
 .img-1 img
 {
     position: absolute;
-    width: 217px;
-    height: 600px;
+    width: 175px;
+    height: 533px;
 }
 .first-heading
 {
     position: absolute;
-    right: 114px;
+    right: 89px;
     top: 99px;
     font-size: 12px;
 }
 .sec-head
 {
     position: absolute;
-    right: 0px;
-    top: 120px;
-    font-size: 20px;
+    right: 33px;
+    top: 122px;
+    font-size: 14px;
 }
 .email
 {
     position: absolute;
-    right: 2px;
-    top: 154px;
-    font-size: 14px;
+    right: 4px;
+    top: 149px;
+    font-size: 12px;
 }
 .email input {
-    width: 187px;
-    height: 22px;
+    width: 163px;
+    height: 18px;
 }
 
 .email-pas
 {
     position: absolute;
-    right: 6px;
-    top: 197px;
+    right: 3px;
+    top: 192px;
+    font-size: 12px;
 }
 .email-pas input
 {
-    width: 185px;
-    height: 22px;
+    width: 164px;
+    height: 18px;
 }
 .radio
 {
     
     position: absolute;
-    right: 82px;
-    top: 249px;
+    right: 64px;
+    top: 240px;
     font-size: 13px;
 
 }
 .login-con .forgot
 {
     position: absolute;
-    right: 76px;
-    top: 277px;
+    right: 57px;
+    top: 268px;
     font-size: 14px;
     text-decoration: none;
 }
@@ -238,7 +239,7 @@ footer p a
 footer p 
 {
     position: absolute;
-    right: 7px;
+    right: 3px;
     top: 450px;
     font-size: 11px;
 }
